@@ -1,0 +1,613 @@
+{
+  "Index": {
+    "site": "alkhbaz"
+  },
+  "COMP_Navbar": {
+    "BACKED": "Baked Goods",
+    "WESTERN_SWEETS": " Western ",
+    "ORIENTAL_SWEETS": "Oriental ",
+    "SANDWITCH_SALSAISON": "salsaison",
+    "BISCUITS": "Biscuits",
+    "KAHK_BETYFOR": "Kahk and Petits-Fours",
+    "SALISON": "Salison",
+    "WESTERN": "Western Sweets",
+    "ORIENTAL": "Oriental Sweets",
+    "BREAD": "Bread",
+    "DRAYERS": "Drayers",
+    "BORIEK": "Boriek",
+    "BATIHAT": "Patés",
+    "LEAVENED": "Feteer",
+    "CAKE": "Cake",
+    "MININ": "Meneen",
+    "SABLIEH": "Sablieh",
+    "BASKUIT": "Biscuits",
+    "COOKIES": "Cookies",
+    "KAHK": "Kahk ",
+    "BETY_FOUR": "Petits-Fours",
+    "CANABIA": "Kanapya",
+    "MINI_SANDWITCH": "Mini Sandwitch",
+    "GATOUH": "Gateau",
+    "TOURTIE": "Torte"
+  },
+  "COMP_Info_Bar": {
+    "DELIVERY_ANYWHERE": "Delivery anywhere"
+  },
+  "COMP_ToolBar": {
+    "AccountMenu": {
+      "MY_ACCOUNT": "My Account",
+      "MY_ORDERS": "My Orders",
+      "ORDER_RETURNS": "Order Returns",
+      "ADDRESS": "Addresses",
+      "WISHLIST": "Wishlist",
+      "LOGIN": "Log In",
+      "SIGN_UP": "Sign Up",
+      "SIGN_OUT": "Sign Out"
+    }
+  },
+  "COMP_ForgotPassword": {
+    "FORGOT_PASSWORD": "Forgot Password",
+    "ENTER_EMAIL": "Enter the email you used. We will send you a link to reset your password.",
+    "EMAIL_ADDRESS": "Email Address",
+    "INVALID_EMAIL": "Invalid Email Address",
+    "REQUIRED_EMAIL": "Required Email",
+    "RESET_PASSWORD": "Forgot your password?",
+    "GENERIC_ERR_MSG": "Oops! Something went wrong. Please try again later.",
+    "BACK": "Back to login",
+    "CHICK_EMAIL_BOX_MESSAGE": "Please check your inbox.",
+    "MESSAGE_WAS_SENDED": "An email has been sent to reset your password."
+  },
+  "COMP_ResetPassword": {
+    "NEW_PASSWORD": "Create New Password",
+    "REPEAT_NEW_PASSWORD": "Repeat New Password",
+    "RESET_PASSWORD": "Reset Password",
+    "ENTER_PASSWORD": "Please enter a new password to use for your account",
+    "BACK_TO_LOGIN": "Back to Login",
+    "RESET_SUCCESS_PASSWORD_MESSAGE": "Password reset successfully",
+    "YOU_CAN_NOW_LOGIN_MESSAGE": "You can now log in using your email and the new password you have created",
+    "REQUIRED_PASSWORD": "Required Password",
+    "PASSWORD_NOT_MATCHED": "Password not matched",
+    "CONFIRM_PASSWORD_REQUIRED": "Confirm Password required"
+  },
+  "COMP_LoginForm": {
+    "LOGIN": "Login",
+    "EMAIL_ADDRESS": "Email Address",
+    "PASSWORD": "Password",
+    "INVALID_EMAIL": "Invalid Email Address",
+    "REQUIRED_EMAIL": "Required Email",
+    "REQUIRED_PASSWORD": "Required Password",
+    "REMEMBER_ME": "Remember me?",
+    "DID_FORGOT_PASSWORD": "Did you forget password?",
+
+    "DONT_HAVE_EMAIL": "Don't have email ?",
+    "SIGNUP": "Create new Email",
+    "GENERIC_ERR_MSG": "Oops! Something went wrong. Please try again later.",
+    "INVALID_EMAIL_OR_PASSWORD": "The email/password couple is invalid.",
+    "HAVE_ACCOUNT": "Create a new account?",
+    "SocialLogin": {
+      "OR": "Or",
+      "FACEBOOK_LOGIN": "Login with Facebook",
+      "GOOGLE_LOGIN": "Login with Google"
+    }
+  },
+  "COMP_SignUpForm": {
+    "FIRST_NAME": "First Name",
+    "LAST_NAME": "Last Name",
+    "REQUIRED_FIRST_NAME": "First Name is required",
+    "REQUIRED_LAST_NAME": "Last Name is required",
+    "EMAIL_ADDRESS": "Email Address",
+    "REQUIRED_EMAIL": "Required Email",
+    "INVALID_EMAIL": "Invalid Email Address",
+    "ALREADY_EMAIL_EXISTS": "We are sorry. This login email already exists. Please try a different email address to register, or login to your existing account.",
+    "SIGNUP": "Sign up",
+    "BTN_REGISTER_LABEL": "Sign up",
+    "OR": "Or",
+    "FACEBOOK_LOGIN": "Login with Facebook",
+    "GOOGLE_LOGIN": "Login with Google",
+    "HAVE_EMAIL": "Do you have account ?",
+    "LOGIN": "Login",
+    "REQUIRED_PASSWORD": "Required Password",
+    "PASSWORD": "Password",
+    "PASSWORD_REGX_MATCH": "Passwords must have at least one uppercase and one lowercase and 8 chars and one special character",
+    "CONFIRM_PASSWORD": "Confirm password",
+    "CONFIRM_PASSWORD_MATCH": "Password not matched",
+    "GENERIC_ERR_MSG": "Oops! Something went wrong. Please try again later.",
+    "ACCEPT": "I agree to",
+    "TERMS_AND_CONDITIONS": "Terms and Conditions",
+    "REQUIRED_TERMS_CONDITIONS": "Please accept terms and conditions",
+    "PASSWORD_REGX_MESSAGE": "The password must be 8 in length and include at least one uppercase letter and one lowercase letter",
+    "ConfirmModal": {
+      "SUCCESS_MSG": "You're all set! Welcome to our community!",
+      "SUCCESS_MSG_COUNTER": "Redirecting in {countdown} seconds..."
+    }
+  },
+
+  "Comp_Carousel": {
+    "ORDER_NOW": "Order Now",
+    "ORDER_IT_FRESH": "Order it Fresh"
+  },
+
+  "COMP_Feature": {
+    "DELIVERED_SUCCESSFULLY": "Fastest Delivery",
+    "ALWAYS_FRESH": "Always Fresh"
+  },
+  "COMP_Recently_Arrived": {
+    "RECENTLY_ARRIVED": "Recently Arrived "
+  },
+
+  "COMP_ProductsList": {
+    "LIST_COUNT_TITLE": "View",
+    "ADD_TO_CART_BTN": "Add to Cart",
+    "50_In_PAGE": "50 In Page",
+    "100_In_PAGE": "100 In Page",
+    "150_In_PAGE": "150 In Page",
+    "BREAD_MAIN": "Home",
+    "BREAD_BAKED": "Baked",
+    "NEXT_LABEL": "Next",
+    "PREV_LABEL": "Previous",
+    "VIEW_TITLE": "View",
+    "SORT_BY_TITLE": "Sort By",
+    "RECENTLY_ARRIVED": "Recently Arrived",
+    "ADD_TO_CART": "Add to Cart",
+    "BEST_SELLER": "Best Seller",
+    "UNAVAILABLE_BTN": "Unavailable",
+    "FOUND_ITEMS": "{count} Search results",
+    "FEATURED": "Featured",
+    "ALPHABET_AZ": "Alphabetically, A-Z",
+    "ALPHABET_ZA": "Alphabetically, Z-A",
+    "PRICE_LH": "Price, low to high",
+    "PRICE_HL": "Price, high to low",
+    "DATE_NO": "Date, new to old",
+    "DATE_ON": "Date, old to new",
+    "CLASSIFICATION_BY": "Classification By",
+    "ALLERGENS": "Allergens",
+    "PRICE": "Price",
+    "EMPTY_MSG": "No products found",
+    "BACK_TO_LIST": "Go back to the List"
+  },
+  "COMP_Over_Rated": {
+    "OVER_RATED": "Top Rated"
+  },
+  "COMP_Order_Now": {
+    "START_DAY_WITH_IT": "Start Your Date With It",
+    "ORDER_IT_FROM_ALKHBAZ": "Order It From Alkhbaz  ",
+    "CHOOSE_FAVOURITE_FILLING": "Choose Your Favourite Filling",
+    "ORDER_NOW": "Order Now"
+  },
+  "COMP_Featured_Products": {
+    "FEATURED_PRODUCTS": "Featured Products",
+    "MORE": "More"
+  },
+
+  "COMP_Best_Seller": {
+    "BEST_SELLER": "Best Seller",
+    "ADD_TO_CART": "Add to Cart"
+  },
+  "COMP_Customer_Experience": {
+    "ORDER_NOW": "Order Now",
+    "TRY_NEW_CANAPES": " Try the New  Kanapya  "
+  },
+  "COMP_ContactUs": {
+    "CONTACT_US": "Contact Us",
+    "FOR_COMPLAINTS_MESSAGE": "For any requests or inquiries regarding products or services such as shipping and delivery, complaints, and suggestions, please contact us at",
+    "HOT_LINE_MESSAGE": "or through page messages or the hotline",
+    "BranchDetailsCard": {
+      "GET_LOCATION": "Get Directions"
+    }
+  },
+  "COMP_Subscribe": {
+    "SUBSCIBE_NOW": "Subscibe Now",
+    "EMAIL": "Email"
+  },
+  "COMP_Custom404": {
+    "NOT_FOUND_MESSAGE": "PAGE NOT FOUND"
+  },
+  "COMP_ProductDetails": {
+    "ADD_TO_CART": "Add to Cart",
+    "BEST_SELLER_LABEL": "Best Seller",
+    "SIZE": "Size :",
+    "QUANTITY": "Quantity Available :",
+    "SHARE": "Share :",
+    "IN_QUANTITY": "In Stock",
+    "RelatedProducts": {
+      "TOGETHER_TITLE": "Buy Together",
+      "BEST_SELLER": "Best Seller"
+    },
+    "Info": {
+      "PRODUCT_OVERVIEW": "Product Overview",
+      "PRODUCT_SPECS": "Product Specifications"
+    }
+  },
+  "COMP_Favourite": {
+    "FAVOURITE": "Favourite",
+    "SHOPPING_NOW": "Shopping",
+    "BEST_SELLER": "Best Seller",
+    "ADD_TO_CART": "Add to Cart",
+    "UNAVAILABLE": "Unavailable"
+  },
+  "COMP_BUY_AGIN": {
+    "BUY_AGAIN": "Buy Again"
+  },
+  "COMP_Product_Summary": {
+    "SUB_TOTAL": " Total Fees",
+    "SHIPPING_FEES": "Shipping Fees  ",
+    "TOTAL": "Total",
+    "REVIEW_ORDER": "Review Order",
+    "ENTER_DISCOUNT_CODE": "Enter Discount Code",
+    "APPLY": "Apply",
+    "COMPLETE_PURCHASE": "Complete Purchase",
+    "SHOPPING_NOW": "Shopping Now"
+  },
+  "COMP_Checkout": {
+    "SUB_TOTAL": " Total Fees",
+    "SHIPPING_FEES": "Shipping Fees  ",
+    "TOTAL": "Total",
+    "REVIEW_ORDER": "Review Order",
+    "ENTER_DISCOUNT_CODE": "Enter Discount Code",
+    "COMPLETE_PURCHASE": "Complete Purchase",
+    "APPLY": "Apply"
+  },
+  "COMP_Shipping_Address": {
+    "APPLY": "Apply",
+
+    "SHIPPING_ADDRESS": "Shipping Address",
+    "SHIPPING_TO_YOUR_LOCATION": "Shipping To Your Location",
+    "TAKE_FROM_NEARST_STORE": "Receive From Nearst Store",
+    "HOME": "Home",
+    "CHANGE": "Change",
+    "DELIVERY_ADDRESS": "Delivery Address",
+    "NAME": "Name",
+    "ADDRESS": "Address",
+    "PHONE_NUMBER": " Phone Number ",
+    "PAYMENT_METHOD": "Payment Methods",
+    "PAYMENT_USING_CART": "Payment using card    ",
+    "ADD_MY_CARD": "Add my Card",
+    "PAYMENT_WHEN_RECEIVING": "  Payment Cash when recieving",
+    "ADD_NEW_ADDRESS": "Add New Address",
+    "CONFIRM": "Confirm",
+    "CANCEL": "Cancel"
+  },
+  "COMP_PaymentMethod": {
+    "PAYMENT_METHOD": "Payment Methods",
+    "PAYMENT_USING_CART": "Payment using card    ",
+    "ADD_MY_CARD": "Add my Card",
+    "PAYMENT_WHEN_RECEIVING": "  Payment Cash when recieving",
+    "ADD_NEW_ADDRESS": "Add New Address",
+    "CARD_NUMBER": " Card Number  ",
+    "EXPIRATION_DATE": "Expiration Date",
+    "MONTH_DAY": "Month / Day",
+    "CODE": "Code",
+    "CANCEL": "Cancel",
+    "PAYMENT_CASH_WHEN_RECEIVING": "Payment Cash When Receiveing"
+  },
+  "COMP_Invoice": {
+    "TOTAL": " Total ",
+    "SHIPPING_FEES": "Shipping Fees  ",
+    "DISCOUNT_CODE": " Discount Code  ",
+    "SHIPPING_ADDRESS": " Shipping Address  ",
+    "BILL": "Bill",
+    "PAYMENT_METHOD": " Payment Method   ",
+    "COMPLETED_SUCCESSFULLY": "Completed Successfully"
+  },
+  "COMP_OrderReturn": {
+    "RETURNING": "Returning",
+    "RETURNING_DONE": "Returning Done",
+    "OLD_ORDER": "This Order Is Too Old To Restore It!",
+    "DO_YOU_HAVE_PROBLEM": "Do you have any problem with order?",
+    "CONTACT_SUPPORT_TEAM": "Contact the support team",
+    "SHOW_RETURN_DETAILS": " Show Return Details    ",
+    "CONFIRM": "Confirm",
+    "CANCEL": "Cancel",
+    "RETURN_ADDRESS": "Return Address"
+  },
+  "COMP_OrderReturnItems": {
+    "RETURNING_DONE": "Returning Done",
+    "DOWNLOAD_INVOICE": "Download Invoice",
+    "SIZE": " Size",
+    "QUANTITY": "Quantity",
+    "PRICE": "Price",
+    "TOTAL": "Total"
+  },
+  "COMP_AddressForm": {
+    "ADDRESS_FORM": "Add New Address",
+    "LOCATION_DETAILS": "Location Details",
+    "ADDRESS_NAME": "Address Name",
+    "OPTIONAL": "(Optional)",
+    "HOME": "Home",
+    "WORK": "Work",
+    "SELECT_DEFAULT": "Use as Default Address",
+    "SAVE_ADDRESS": "Save Address",
+    "CANCEL": "Cancel",
+    "ADDRESS_DETAILS": "Address Details",
+    "NAME": "Name",
+    "PHONE": "Phone Number",
+    "GOVERNORATE": "Governorate",
+    "REGION": "Region",
+    "ADDRESS": "Address",
+    "BUILDING": "Building Number",
+    "FLOOR": "Floor Number",
+    "APARTMENT": "Apartment Number",
+    "POSTAL_CODE": "Postal Code",
+    "FIRST_NAME": "First Name",
+    "REQUIRED_FIRST_NAME": "First Name is required",
+    "ERR_FIRST_NAME_MIN": "You must enter at least {length} characters.",
+    "ERR_FIRST_NAME_MAX": "First Name length should be less than {length} characters.",
+    "LAST_NAME": "Last Name",
+    "REQUIRED_LAST_NAME": "Last Name is required",
+    "ERR_LAST_NAME_MIN": "You must enter at least {length} characters.",
+    "ERR_LAST_NAME_MAX": "Last Name length should be less than {length} characters.",
+    "EMAIL_ADDRESS": "Email Address",
+    "REQUIRED_EMAIL": "Required Email",
+    "INVALID_EMAIL": "Invalid Email Address",
+    "PHONE_NUMBER": "Phone Number",
+    "REQUIRED_PHONE_NUMBER": "Phone Number Required",
+    "INVALID_PHONE_NUMBER": "Phone number is not valid",
+    "CITY": "City",
+    "REQUIRED_CITY": "Please select your city.",
+    "LINE1": "Address Details",
+    "REQUIRED_ADDRESS": "Please enter your street name or any landmarks.",
+    "REQUIRED_BUILDING_NUMBER": "Please enter your building number",
+    "REQUIRED_FLOOR_NUMBER": "Please enter your floor number",
+    "FLAT": "Flat",
+    "REQUIRED_FLAT_NUMBER": "Please enter your apartment number",
+    "SAVE_ADDRESSES": "Save Addresses",
+    "DEFAULT_SELECT": "Select ...",
+    "DISTRICT": "District",
+    "REQUIRED_DISTRICT": "Please select your district",
+    "OTHER": "Other",
+    "REQUIRED_ADDRESS_TYPE": "Please select the address type.",
+    "SAVE": "Save Address",
+    "Default_ADDRESS": "Use as Default Address"
+  },
+  "COMP_AccountForm": {
+    "FIRST_NAME": "First Name",
+    "LAST_NAME": "Last Name",
+    "EMAIL": "Email",
+    "PHONE": "Phone Number",
+    "LANGUAGE": "Preferred Language",
+    "COMPANY": "Company Name",
+    "BIRTH_DATE": "Date of Birth",
+    "GENDER": "Gender",
+    "SAVE": "Save",
+    "RESET_PASSWORD": "Reset Password",
+    "MY_ACCOUNT": "My Account",
+    "GENERAL_INFO": "General Information",
+    "ERR_FIRST_NAME_MAX": "First Name length should be less than {length} characters.",
+    "REQUIRED_FIRST_NAME": "First Name is required",
+    "ERR_LAST_NAME_MIN": "You must enter at least {length} characters.",
+    "ERR_LAST_NAME_MAX": "Last Name length should be less than {length} characters.",
+    "REQUIRED_LAST_NAME": "Last Name is required",
+    "INVALID_EMAIL": "Invalid Email Address",
+    "REQUIRED_EMAIL": "Required Email",
+    "REQUIRED_PHONE_NUMBER": "Phone Number Required",
+    "INVALID_PHONE_NUMBER": "Phone number is not valid",
+    "ALREADY_EMAIL_EXISTS": "We are sorry. This email already exists. Please try a different email address to register, or login to your existing account.",
+    "ERR_FIRST_NAME_MIN": "You must enter at least {length} characters."
+  },
+
+  "Comp_Change_Password": {
+    "CHANGE_PASSWORD": "Change Password",
+    "CURRENT_PASSWORD": "Current Password",
+    "REQUIRED_CURRENT_PASSWORD": "Current Password Is Required",
+    "CURRENT_PASSWORD_INVALID": "Sorry, but current password is not valid",
+    "NEW_PASSWORD": "New Password",
+    "REQUIRED_NEW_PASSWORD": "New Password Is Required",
+    "NEW_PASSWORD_REGX_MATCH": "Passwords must have at least one uppercase and one lowercase and 8 chars and one special character",
+    "REPEAT_NEW_PASSWORD": "Re-enter the new password",
+    "SAME_PASSWORD_ERR": "New password is the same as old password. Please choose another one.",
+    "REQUIRED_REPEAT_NEW_PASSWORD": "Please Reat New Password",
+    "REPEAT_NEW_PASSWORD_MATCH": "Password not matched",
+    "SAVE": "Save",
+    "CANCEL": "Cancel",
+    "GENERIC_ERR_MSG": "Oops! Something went wrong. Please try again later.",
+    "SUCCESS_MSG": "Password updated successfully.",
+    "SUCCESS_MSG_COUNTER": "Logout in {countdown} seconds..."
+  },
+  "COMP_AccountDetails": {
+    "MY_ACCOUNT": "My Account",
+    "EDIT_BTN": "Edit"
+  },
+  "COMP_ProfileTabs": {
+    "WISHLIST": "Wishlist",
+    "MY_ORDERS": "My Orders",
+    "ORDER_RETURN": "Order Return",
+    "ADDRESSES": "Addresses",
+    "WALLET": "Wallet",
+    "MY_ACCOUNT": "My Account",
+    "LOG_OUT": "Log Out",
+    "WELCOME": "Hello",
+    "SECTIONS": "Sections"
+  },
+  "COMP_Addresses": {
+    "ADDRESSES": "Addresses",
+    "ADD_NEW_ADDRESS": "Add New Address",
+    "SUCCESS_UPDATE_MSG": "Your address has been updated successfully.",
+    "SUCCESS_ADD_MSG": "Your address has been added successfully."
+  },
+  "COMP_AddressItem": {
+    "EDIT": "Edit",
+    "DELETE": "Delete",
+    "DELIVERY_ADDRESS": "{type} Delivery Address",
+    "HOME": "Home",
+    "WORK": "Work",
+    "Default_ADDRESS": "Use as Default Address"
+  },
+  "COMP_MyOrders": {
+    "FROM_NEW_TO_OLD": "From Newest to Oldest",
+    "FROM_OLD_TO_NEW": "From Oldest to Newest",
+    "VIEW_ORDERS": "View Orders",
+    "DETAILS": "Details"
+  },
+  "COMP_OrderDetails": {
+    "SUB_TOTAL": "Subtotal",
+    "SHIPPING_FEES": "Shipping Fees",
+    "TOTAL": "Total",
+    "VIEW_INVOICE": "View Invoice",
+    "DOWNLOAD_INVOICE": "Download Invoice",
+    "RATE_PRODUCT": "Rate Product",
+    "RATE_BRANCH": "Rate Branch",
+    "RATE_DELIVERY": "Rate Delivery",
+    "DELIVERY_ADDRESS": "Delivery Address",
+    "PAYMENT_METHOD": "Payment Method",
+    "INVOICE": "Invoice"
+  },
+  "COMP_UnCompletedOrder": {
+    "ARRIVES_WITHIN": "Arrives Within",
+    "CONTACT_WITH_DELIVERY": "Contact Delivery"
+  },
+  "COMP_CompletedOrder": {
+    "RETURN_ORDER": "Return Products"
+  },
+  "COMP_Wishlist": {
+    "BEST_SELLER": "Best Seller",
+    "ADD_TO_CART_BTN": "Add to Cart",
+    "UNAVAILABLE": "Unavailable",
+    "LIST_VIEW_TITLE": "View"
+  },
+  "COMP_Refound": {
+    "FAVOURITE_RETURN": " Select preferred Return method ",
+    "SELECT_ORIGIN_PAYMENT": " The original payment method",
+    "WALLET": "Wallet",
+    "BANK_TRANSFER": " Bank Transfer  "
+  },
+  "COMP_Pickup": {
+    "RETURN_DETAILS": " Return Details  ",
+    "SHIPPING_ADDRESS": " Shipping Address  ",
+    "Name": "Name",
+    "ADDRESS": "Address",
+    "PHONE_NUMBER": " Phone Number ",
+    "CHANGE": "Change",
+    "SELECT_DAY": "Select Day",
+    "TIME": "Time",
+    "DELIVERY_COMING": "A delivery person will come to collect your return during your chosen location and time.",
+    "ADD_NEW_ADDRESS": "Add New Address",
+    "CONFIRM": "Confirm",
+    "CANCEL": "Cancel"
+  },
+
+  "COMP_ReturnConfirmation": {
+    "VIEW_RETURNS": "View Returns",
+    "SIZE": " Size",
+    "QUANTITY": "Quantity",
+    "PRICE": "Price",
+    "RETURN_ADDRESS": "Return Address",
+    "RETURNS_PRODUCTS": "Returns Products",
+    "RETURN_REASON": "Return Reason",
+    "RETURN_SUMMARY": "Return Summary",
+    "TOTAL": "Total ",
+    "RETURN_WAY": "Return Way"
+  },
+  "COMP_Wallet": {
+    "WALLET_HISTORY": "Wallet History",
+    "CHARGE_WALLET": "Charge Wallet",
+    "BALANCE": "Balance"
+  },
+  "COMP_ChargeMethod": {
+    "CHARGE_USING_CARD": "Recharge using card",
+    "CHARGE_VIA_BANK_TRANSFER": "Charge via bank transfer",
+    "READ_AND_ACCEPTED": "I have read and accepted",
+    "TERMS_AND_CONDITIONS": "Terms and Conditions",
+    "ADD_MY_CARD": "Add My Card",
+    "CANCEL": "Cancel"
+  },
+  "COMP_WalletForm": {
+    "BANK_NAME": " Bank Name  ",
+    "COUNTRY": "Country",
+    "BRANCH": "Branch",
+    "ZAMALEK": "Zamalek",
+    "BANK_IDENTIFICATION_Number": "Bank Identification Number",
+    "TRANSFER_NUMBER": "Transfer Number",
+    "ACCOUNT_NUMBER": "Account Number",
+    "IBAN_NUMBER": "Iban Number",
+    "SWIFT_CODE": "Swift Code",
+    "REQUIRED_BANK_NAME": "Bank Name Is Required",
+    "REQUIRED_COUNTRY": "Country Is Required",
+    "REQUIRED_BRANCH": "Branch Name Is Required",
+    "REQUIRED_IDENTIFICATION_NUMBER": "Identification Number Required",
+    "REQUIRED_TRANSFER_NUMBER": "Transfer Number Is Required",
+    "REQUIRED_ACCOUNT_NUMBER": "Account Number Is Required",
+    "REQUIRED_IBAN_NUMBER": "Iban Numer",
+    "REQUIRED_SWIFT_CODE": "Swift Code Is Required",
+    "TRANSFER_DETAILS": "Transfer Details",
+    "TRANSFER_DURATION": "The transfer process generally takes two to three business days.",
+    "READ_ACCEPT": " I have read and accepted    ",
+    "TERMS_CONDTIONS": "terms And Conditions",
+    "CONFIRM": "Confirm",
+    "CANCEL": "Cancel",
+    "REQUIRED_TRANSFER_DETAILS": "Transfer Details Is Required",
+    "TRANSFERE_INFORMATION": "Transfer Information",
+    "BANK_DETAILS": "Bank Details"
+  },
+  "COMP_ReturnProcess": {
+    "CONFIRM": "Confirm",
+    "CANCEL": "Cancel"
+  },
+  "COMP_Footer": {
+    "ADDRESS": "3 p. 5, Katameya Industrial Zone - Maadi - Cairo",
+    "TIME": "Working hours are from 08:00 AM to 11:30 PM midnight, 7 days a week.",
+    "ABOUT_ALKHBAZ": "About Alkhbaz",
+    "TERMS_CONDITION": "Terms and Conditions",
+    "DELIVERY_POLICY": "Delivery Policy",
+    "RETURN_POLICY": "Return Policy",
+    "SUPPORT": "Support",
+    "QUESTIONS_ANSWERS": "Questions And Answers",
+    "CONTACT_US": "Contact us",
+    "PAYMENT_METHOD": " Payment Method",
+    "SHARE_WITH_US": "Share with",
+    "COPY_RIGHT": "Alkhbaz . All rights reserved "
+  },
+  "COMP_EmptyWishlist": {
+    "WISHLIST-IS-EMPTY": "Wish list is empty",
+    "EMPTY_TILL_NOW": "You don't have anything in your Wish list yet.",
+    "SHOP_NOW": "Start shopping now"
+  },
+  "COMP_Profile_Address": {
+    "ADD_NEW_ADDRESS": "Add New Addresses",
+    "GENERIC_ERR_MSG": "Oops! Something went wrong. Please try again later.",
+    "SUCCESS_UPDATE_MSG": "Your address has been updated successfully.",
+    "SUCCESS_ADD_MSG": "Your address has been added successfully.",
+    "EMPTY_MSG": "There are no addresses right now."
+  },
+  "COMP_Remove_Address_Modal": {
+    "REMOVE_ADDRESS": "Remove Address",
+    "DO_REMOVE_ADDRESS": "Are you sure you want to remove the address",
+    "CONFIRM_REMOVE": "Remove",
+    "CANCEL": "Cancel",
+    "GENERIC_ERR_MSG": "Oops! Something went wrong. Please try again later."
+  },
+  "COMP_FavoriteForm": {
+    "ADD_TO_FAVORITE_MESSAGE": "The item was successfully added to your favorites",
+    "ADD_TO_FAVORITE_ERROR": "An error occurred while adding the item",
+    "REMOVE_FROM_FAVORITE_MESSAGE": "The item was successfully Removed to your favorites",
+    "REMOVE_FROM_FAVORITE_ERROR": "An error occurred while removing the item"
+  },
+  "COMP_SidebarFilter": {
+    "SECTIONS": "Sections",
+    "PRICE": "Price",
+    "DELETE_ALL": "Delete All"
+  },
+  "COMP_Price_Range": {
+    "FROM": "From",
+    "TO": "To"
+  },
+  "COMP_MobileFilter": {
+    "DELETE_ALL": "Delete All",
+    "PRICE": "Price",
+    "BAKED": "Baked Goods"
+  },
+  "COMP_MobileNav": {
+    "ALL": "All"
+  },
+  "COMP_FulfillmentMenu": {
+    "CHOOSE_ARIA": "Choose your aria",
+    "DEFAULT_SELECT": "Select ..."
+  },
+  "COMP_Delivery_time": {
+    "DELIVERY_TIME": "Delivery in 30 minutes"
+  },
+  "COMP_MiniCart": {
+    "SHOPPING_CART": "Shopping Cart",
+    "TOTAL": "Total",
+    "CART_LINK": "Shopping Cart",
+    "CHECKOUT_LINK": "Checkout"
+  }
+}

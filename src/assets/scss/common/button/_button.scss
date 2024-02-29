@@ -1,0 +1,38 @@
+.button-maker {
+  // @each $color, $value in $theme-colors {
+  //   @if ((lightness($value)) < 90 and (hue($value)) > 10) {
+  //     .bg-#{$color} {
+  //       @extend .text-white
+  //     }
+  //   }
+  // }
+  height: 40px;
+  font-family: inherit;
+  color: $white;
+  border-radius: 4px;
+  text-wrap: nowrap;
+
+  &:disabled {
+    background-color: $disabled !important;
+    border: 0;
+  }
+
+  &.btn-outline-primary {
+    &:hover {
+      background-color: $primary !important;
+      color: $white !important;
+    }
+  }
+
+  &:active,
+  &:hover {
+    background-color: $dark;
+    color: $white;
+
+    i {
+      color: initial;
+    }
+  }
+
+  font-size: 16px;
+}

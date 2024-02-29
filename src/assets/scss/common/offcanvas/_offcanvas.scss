@@ -1,0 +1,79 @@
+@media screen and (max-width:1280px) {
+  .offcanvas {
+      max-width: 75%;
+
+      .offcanvas-header {
+          .offcanvas-title {
+              display: flex;
+              justify-content: space-between;
+              width: 100%;
+          }
+      }
+
+      .offcanvas-body {
+          position: relative;
+          padding: 0;
+
+          .canvas-header {
+              padding: 1rem;
+              border-bottom: 1px solid $light;
+          }
+
+          .nav {
+              padding: 1rem 2rem;
+              display: flex;
+              flex-direction: column;
+
+              align-items: flex-start;
+
+              .nav-link {
+                  border-bottom: 1px solid #D9D9D9;
+                  width: 100%;
+                  padding-right: 0;
+                  padding-left: 0;
+
+                  .navlink-name {
+                      color: $heading;
+                  }
+
+                  &.active {
+                      .navlink-name {
+                          color: $primary;
+                      }
+                  }
+              }
+
+              .dropdown {
+                  border-bottom: 1px solid #D9D9D9;
+                  width: 100%;
+
+                  .dropdown-toggle {
+                      border: 0;
+                      color: $heading;
+                      padding-right: 0;
+                      padding-left: 0;
+
+                      &[aria-expanded=true]::before {
+                          content: none;
+                      }
+                  }
+
+                  .dropdown-menu {
+                      position: relative !important;
+                      box-shadow: none;
+                      transform: none !important;
+                  }
+              }
+          }
+
+          .canvas-close {
+              position: absolute;
+              top: 1rem;
+              left: 0.5rem;
+              border: 0;
+          }
+      }
+
+
+  }
+}

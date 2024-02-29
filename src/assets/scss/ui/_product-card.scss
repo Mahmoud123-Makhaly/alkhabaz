@@ -1,0 +1,15 @@
+[data-layout-dir='ltr'] {
+  .h-product-card {
+    .product-fav {
+      left: 1rem;
+      right: unset !important;
+    }
+  }
+}
+
+.h-product-card {
+  img {
+    min-width: 23%;
+    width: auto !important;
+  }
+}

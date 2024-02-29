@@ -1,0 +1,106 @@
+ul.react-paginate {
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0 5rem;
+  gap: 0.5rem;
+}
+
+ul.react-paginate li {
+  border: 1px solid $light;
+  border-radius: 10px;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  a {
+    color: $primary !important;
+    font-size: 14px;
+    font-weight: 500;
+  }
+}
+
+ul.react-paginate li.previous,
+ul.react-paginate li.next {
+  height: 40px;
+
+  a {
+    &[aria-disabled="true"] {
+      color: $light !important;
+      cursor: default;
+    }
+
+    &[aria-disabled="false"] {
+      color: $primary !important;
+    }
+  }
+}
+
+[data-layout-dir="rtl"] {
+  ul.react-paginate li.previous {
+
+
+    ::before {
+      content: "\f054";
+      font-family: "FontAwesome";
+
+    }
+  }
+
+  ul.react-paginate li.next {
+
+    ::after {
+      content: "\f053";
+      font-family: "FontAwesome";
+
+    }
+  }
+}
+
+[data-layout-dir="ltr"] {
+  ul.react-paginate li.next {
+
+    ::after {
+      content: "\f054";
+      font-family: "FontAwesome";
+    }
+  }
+
+  ul.react-paginate li.previous {
+
+    ::before {
+      content: "\f053";
+      font-family: "FontAwesome";
+    }
+  }
+}
+
+ul.react-paginate li.selected {
+  background-color: $primary;
+
+  a {
+    color: $white !important;
+  }
+}
+
+ul.react-paginate li.disabled a {
+  color: #434343;
+}
+
+@include for-phone {
+  ul.react-paginate {
+    padding: 0;
+
+    li {
+      a {
+        font-size: 12px;
+        font-weight: 500;
+      }
+    }
+  }
+}

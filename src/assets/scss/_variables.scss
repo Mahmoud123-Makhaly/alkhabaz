@@ -1,0 +1,43 @@
+$primary: #5c4f90;
+$dark-charcoal: #333;
+$secondary: #a0a0a0;
+$heading: #231c17;
+$warning: #f0ad4e;
+$success: #67cb93;
+$orange: #ec971f;
+$light-orange: #fdf5e9;
+$danger: #d92d20;
+$dark: #212121;
+$disabled: #667085;
+$dimmed: #8c8c8c;
+$light-blue: #ededff;
+$dark: #292e35;
+$light: #d0d5dd;
+$black: #111111;
+$white: #fff;
+$gray: #626262;
+$gray-bg: #f5f6fa;
+$medium-gray: #858a8f;
+$footer: #858a8f;
+
+$theme-colors: (
+  'primary': $primary,
+  'secondary': $secondary,
+  'heading': $heading,
+  'danger': $danger,
+  'light': $light,
+  'light-blue': $light-blue,
+  'warning': $warning,
+  'success': $success,
+  'orange': $orange,
+  'light-orange': $light-orange,
+  'dark': $dark,
+  'black': $black,
+  'white': $white,
+  'dimmed': $dimmed,
+  'disabled': $disabled,
+  'gray': $gray,
+  'gray-bg': $gray-bg,
+  'dark-charcoal': $dark-charcoal,
+  'medium-gray': $medium-gray,
+);

@@ -1,0 +1,605 @@
+{
+  "Index": {
+    "site": "الخباز"
+  },
+  "COMP_Navbar": {
+    "BACKED": "المخبوزات",
+    "BISCUITS": "بسكويت",
+    "KAHK_BETYFOR": "كحك و بيتي فور",
+    "SALISON": "ساليزون",
+    "WESTERN": "حلويات غربيه",
+    "ORIENTAL": "حلويات شرقية",
+    "WESTERN_SWEETS": "حلويات غربي",
+    "ORIENTAL_SWEETS": "حلويات شرقي",
+    "SANDWITCH_SALSAISON": "ساندوتس&ساليزون",
+    "BREAD": "خبز",
+    "DRAYERS": "نواشف",
+    "BORIEK": "بوريك",
+    "BATIHAT": "باتيهات",
+    "LEAVENED": "فطير",
+    "CAKE": "كيك",
+    "MININ": "منين",
+    "SABLIEH": "سابليه",
+    "BASKUIT": "بسكويت",
+    "COOKIES": "كوكيز",
+    "KAHK": "كحك",
+    "BETY_FOUR": "بيتي فور",
+    "CANABIA": "كنابية",
+    "MINI_SANDWITCH": " ميني ساندوتش",
+    "GATOUH": "جاتوه",
+    "TOURTIE": "تورت"
+  },
+  "COMP_Info_Bar": {
+    "DELIVERY_ANYWHERE": "توصيل لأي مكان"
+  },
+  "COMP_ToolBar": {
+    "AccountMenu": {
+      "MY_ACCOUNT": "حسابي",
+      "MY_ORDERS": "الطلبات",
+      "ORDER_RETURNS": "الاراجاع",
+      "ADDRESS": "العنواين",
+      "WISHLIST": "المفضلة",
+      "LOGIN": "تسجيل الدخول",
+      "SIGN_UP": "انشاء حساب",
+      "SIGN_OUT": "تسجيل  خروج"
+    }
+  },
+  "COMP_ForgotPassword": {
+    "FORGOT_PASSWORD": "نسيت كلمة المرور",
+    "EMAIL_ADDRESS": "البريد الالكتروني",
+    "ENTER_EMAIL": "أدخل البريد الإلكتروني الذي استخدمته. سنرسل لك رابطًا لإعادة تعيين كلمة المرور الخاصة بك.",
+    "INVALID_EMAIL": "يرجى إدخال عنوان بريد إلكتروني صالح",
+    "REQUIRED_EMAIL": "يرجى إدخال عنوان بريد إلكتروني ",
+    "RESET_PASSWORD": "نسيت كلمة السر؟",
+    "GENERIC_ERR_MSG": "عذرًا! حدث خطأ ما. الرجاء المحاولة مرة أخرى لاحقًا.",
+    "BACK": "العودة إلى تسجيل الدخول",
+    "CHICK_EMAIL_BOX_MESSAGE": " يرجى التحقق من صندوق الوارد الخاص بك.",
+    "MESSAGE_WAS_SENDED": "تم إرسال بريد إلكتروني لإعادة تعيين كلمة السر"
+  },
+  "COMP_ResetPassword": {
+    "NEW_PASSWORD": "إنشاء كلمة مرور جديدة",
+    "REPEAT_NEW_PASSWORD": "أعد إدخال كلمة المرور الجديدة",
+    "RESET_PASSWORD": "إعادة تعيين كلمة السر",
+    "ENTER_PASSWORD": "الرجاء إدخال كلمة سر جديدة لاستخدامها في حسابك الخاص بك ",
+    "BACK_TO_LOGIN": "العودة إلى تسجيل الدخول",
+    "RESET_SUCCESS_PASSWORD_MESSAGE": "تم إعادة تعيين كلمة السر بنجاح",
+    "YOU_CAN_NOW_LOGIN_MESSAGE": "يمكنك الآن تسجيل الدخول باستخدام بريدك الإلكتروني وكلمة السر الجديدة التي تم إنشاؤها",
+    "REQUIRED_PASSWORD": "كلمة المرور مطلوبة",
+    "PASSWORD_NOT_MATCHED": "كلمة المرور غير متطابقة",
+    "CONFIRM_PASSWORD_REQUIRED": "تأكيد كلمة المرور مطلوبة"
+  },
+  "COMP_LoginForm": {
+    "LOGIN": "تسجيل الدخول",
+    "EMAIL_ADDRESS": "البريد الالكتروني",
+    "PASSWORD": "كلمة المرور",
+    "INVALID_EMAIL": "يرجى إدخال عنوان بريد إلكتروني صالح",
+    "REQUIRED_EMAIL": "يرجى إدخال عنوان بريد إلكتروني ",
+    "REQUIRED_PASSWORD": "يرجى إدخال كلمة المرور",
+    "REMEMBER_ME": "تذكرني ؟",
+    "DID_FORGOT_PASSWORD": "هل نسيت كلمة  المرور؟",
+    "DONT_HAVE_EMAIL": "ليس لديك حساب؟",
+    "SIGNUP": " إنشاء حساب جديد",
+    "GENERIC_ERR_MSG": "عذرًا! حدث خطأ ما. الرجاء المحاولة مرة أخرى لاحقًا.",
+    "INVALID_EMAIL_OR_PASSWORD": "البريد الإلكتروني/كلمة المرور غير صالح.",
+    "HAVE_ACCOUNT": "انشاء حساب جديد؟",
+    "SocialLogin": {
+      "OR": "أو",
+      "FACEBOOK_LOGIN": "تسجيل دخول بفيس بوك",
+      "GOOGLE_LOGIN": "تسجيل دخول بجوجل"
+    }
+  },
+  "COMP_SignUpForm": {
+    "FIRST_NAME": "الاسم الاول",
+    "LAST_NAME": "اسم العائلة",
+    "REQUIRED_FIRST_NAME": "الاسم الاول مطلوب",
+    "REQUIRED_LAST_NAME": "اسم العائلة مطلوب",
+    "EMAIL_ADDRESS": "عنوان البريد الإلكتروني",
+    "REQUIRED_EMAIL": "البريد الإلكتروني مطلوب",
+    "INVALID_EMAIL": "عنوان البريد الإلكتروني غير صالح",
+    "ALREADY_EMAIL_EXISTS": "نحن اسفون. البريد الإلكتروني لتسجيل الدخول موجود بالفعل. يرجى تجربة عنوان بريد إلكتروني مختلف للتسجيل، أو تسجيل الدخول إلى حسابك الحالي.",
+    "SIGNUP": "انشاء حساب جديد",
+    "OR": "أو",
+    "FACEBOOK_LOGIN": "تسجيل الدخول باستخدام فيسبوك",
+    "GOOGLE_LOGIN": "تسجيل الدخول باستخدام جوجل",
+    "HAVE_EMAIL": "هل لديك حساب بالفعل؟",
+    "REQUIRED_PASSWORD": "كلمة المرور مطلوبة",
+    "PASSWORD": "كلمة المرور",
+    "PASSWORD_REGX_MATCH": "يجب أن تحتوي كلمة المرور على حرف كبير وحرف صغير وتكون على الأقل 8 أحرف وحرف خاص واحد",
+    "CONFIRM_PASSWORD": "تأكيد كلمة المرور",
+    "CONFIRM_PASSWORD_MATCH": "كلمة المرور غير متطابقة",
+    "GENERIC_ERR_MSG": "عذرًا! حدث خطأ ما. الرجاء المحاولة مرة أخرى لاحقًا.",
+    "ACCEPT": "اوافق علي",
+    "TERMS_AND_CONDITIONS": "الشروط والأحكام",
+    "REQUIRED_TERMS_CONDITIONS": "الرجاء قبول الشروط والأحكام",
+    "PASSWORD_REGX_MESSAGE": "كلمة المرور يجب ان تتكون من 8 و تتضمن حرف كبير و حرف صغير علي الاقل",
+    "ConfirmModal": {
+      "SUCCESS_MSG": "لقد تمت عملية التسجيل بنجاح! مرحبًا في مجتمعنا!",
+      "SUCCESS_MSG_COUNTER": "جاري التوجيه في خلال {countdown} ثواني..."
+    }
+  },
+
+  "Comp_Carousel": {
+    "ORDER_NOW": "اطلب الان",
+    "ORDER_IT_FRESH": "اطلبها فريش"
+  },
+  "COMP_Feature": {
+    "DELIVERED_SUCCESSFULLY": "هتوصل سريعا",
+    "ALWAYS_FRESH": "دايما طازج"
+  },
+  "COMP_Recently_Arrived": {
+    "RECENTLY_ARRIVED": "وصل حديثا"
+  },
+  "COMP_ProductsList": {
+    "LIST_COUNT_TITLE": "عرض",
+    "ADD_TO_CART_BTN": "اضافة الي عربة التسوق",
+    "50_In_PAGE": "50 في الصفحة",
+    "100_In_PAGE": "100 في الصفحة",
+    "150_In_PAGE": "150 في الصفحة",
+    "BREAD_MAIN": "الرئيسية",
+    "BREAD_BAKED": "المخبوزات",
+    "NEXT_LABEL": "التالي",
+    "PREV_LABEL": "السابق",
+    "VIEW_TITLE": "عرض",
+    "SORT_BY_TITLE": "ترتيب حسب",
+    "ADD_TO_CART": "اضافة الي عربة التسوق",
+    "RECENTLY_ARRIVED": "وصل حديثا",
+    "BEST_SELLER": "الاكثر مبيعا",
+    "UNAVAILABLE_BTN": "غير متوفر",
+    "FOUND_ITEMS": "{count} نتائج البحث",
+    "FEATURED": "مميز",
+    "ALPHABET_AZ": "أبجديًا، من الألف إلى الياء",
+    "ALPHABET_ZA": "أبجديًا، من الياء إلى الألف",
+    "PRICE_LH": "السعر، من الأقل إلى الأعلى",
+    "PRICE_HL": "السعر، من الأعلى إلى الأقل",
+    "DATE_NO": "التاريخ، من الجديد إلى القديم",
+    "DATE_ON": "التاريخ، من القديم إلى الجديد",
+    "PRICE": "السعر",
+    "EMPTY_MSG": "لم يتم العثور على المنتجات",
+    "BACK_TO_LIST": "اذهب إلي الرئيسية"
+  },
+  "COMP_Over_Rated": {
+    "OVER_RATED": " الاعلي تقييما  "
+  },
+  "COMP_Order_Now": {
+    "START_DAY_WITH_IT": " ابتدي به يومك   ",
+    "ORDER_IT_FROM_ALKHBAZ": "اطلبه من الخباز",
+    "CHOOSE_FAVOURITE_FILLING": "اختار الحشو اللي بتحبه",
+    "ORDER_NOW": "اطلب الان"
+  },
+  "COMP_Featured_Products": {
+    "FEATURED_PRODUCTS": "    منتجاتنا المميزة  ",
+    "MORE": "المزيد"
+  },
+  "COMP_Best_Seller": {
+    "BEST_SELLER": "الاكثر مبيعا",
+    "ADD_TO_CART": "اضافة الي عربة التسوق"
+  },
+  "COMP_Customer_Experience": {
+    "ORDER_NOW": "اطلب الان",
+    "SORT_BY_TITLE": "ترتيب حسب",
+    "RECENTLY_ARRIVED": "وصل حديثا",
+    "TRY_NEW_CANAPES": "جرب الكنابية مشكل جديد"
+  },
+  "COMP_ContactUs": {
+    "CONTACT_US": "تواصل معنا",
+    "FOR_COMPLAINTS_MESSAGE": "لأي طلبات أو استفسارات تخص المنتجات أو الخدمات كالشحن والتوصيل أو الشكاوي والاقتراحات يُرجى مراسلتنا علي",
+    "HOT_LINE_MESSAGE": "أو من خلال رسائل الصفحة او الخط الساخن",
+    "BranchDetailsCard": {
+      "GET_LOCATION": "الحصول على الإتجاهات"
+    }
+  },
+  "COMP_Subscribe": {
+    "SUBSCIBE_NOW": " اشترك الان  ",
+    "EMAIL": "البريد الالكتروني"
+  },
+  "COMP_Custom404": {
+    "NOT_FOUND_MESSAGE": "الصفحة غير موجودة"
+  },
+  "COMP_ProductDetails": {
+    "ADD_TO_CART": "اضافة الي عربة التسوق",
+    "BEST_SELLER_LABEL": "الأكثر مبيعا",
+    "SIZE": "الحجم:",
+    "QUANTITY": "الكمية المتوفرة :",
+    "SHARE": "شارك :",
+    "IN_QUANTITY": "في المخزون",
+    "RelatedProducts": {
+      "TOGETHER_TITLE": "اطلب مع بعض",
+      "BEST_SELLER": "الاكثر مبيعا"
+    },
+    "Info": {
+      "PRODUCT_OVERVIEW": "نظرة عامة",
+      "PRODUCT_SPECS": "المواصفات"
+    }
+  },
+  "COMP_Favourite": {
+    "FAVOURITE": "المفضلة",
+    "SHOPPING_NOW": "تسوق الان",
+    "BEST_SELLER": "الاكثر مبيعا",
+    "ADD_TO_CART": "اضافة الي عربة التسوق",
+    "UNAVAILABLE": "غير متوفر"
+  },
+
+  "COMP_BUY_AGIN": {
+    "BUY_AGAIN": "اشتري مجددا "
+  },
+  "COMP_Product_Summary": {
+    "SUB_TOTAL": "المجموع الفرعي",
+    "SHIPPING_FEES": "رسوم الشحن",
+    "TOTAL": "المجموع",
+    "REVIEW_ORDER": "مراجعة الطلب",
+    "ENTER_DISCOUNT_CODE": "ادخل كود الخصم",
+    "APPLY": "تطبيق",
+    "COMPLETE_PURCHASE": "اتمام عملية الشراء ",
+    "SHOPPING_NOW": "تسوق الان"
+  },
+  "COMP_Checkout": {
+    "SUB_TOTAL": "المجموع الفرعي",
+    "SHIPPING_FEES": "رسوم الشحن",
+    "TOTAL": "المجموع",
+    "REVIEW_ORDER": "مراجعة الطلب",
+    "ENTER_DISCOUNT_CODE": "ادخل كود الخصم",
+    "APPLY": "تطبيق",
+    "COMPLETE_PURCHASE": "اتمام عملية الشراء "
+  },
+  "COMP_Shipping_Address": {
+    "SHIPPING_ADDRESS": "عنوان الشحن",
+    "SHIPPING_TO_YOUR_LOCATION": "شحن الي موقعك",
+    "TAKE_FROM_NEARST_STORE": "الاستلام من اقرب فرع",
+    "HOME": "البيت",
+    "CHANGE": "تغيير",
+    "DELIVERY_ADDRESS": "عنوان التوصيل",
+    "NAME": "الاسم",
+    "ADDRESS": "العنوان",
+    "PHONE_NUMBER": "رقم التليفون",
+    "PAYMENT_METHOD": "طرق الدفع ",
+    "PAYMENT_USING_CART": "الدفع باستخدام البطاقة",
+    "ADD_MY_CARD": "اضافة بطاقتي",
+    "PAYMENT_CASH_WHEN_RECEIVING": "الدفع  كاش عند الاستلام",
+    "ADD_NEW_ADDRESS": "اضافة عنوان جديد",
+    "CONFIRM": "تأكيد",
+    "CANCEL": "الغاء"
+  },
+  "COMP_PaymentMethod": {
+    "PHONE_NUMBER": "رقم التليفون",
+    "PAYMENT_METHOD": "طرق الدفع ",
+    "PAYMENT_USING_CART": "الدفع باستخدام البطاقة",
+    "ADD_MY_CARD": "اضافة بطاقتي",
+    "PAYMENT_CASH_WHEN_RECEIVING": "الدفع  كاش عند الاستلام",
+    "ADD_NEW_ADDRESS": "اضافة عنوان جديد",
+    "CARD_NUMBER": "رقم البطاقة",
+    "EXPIRATION_DATE": "تاريخ انتهاء الصلاحية",
+    "MONTH_DAY": "شهر / سنة",
+    "CODE": "الكود",
+    "CANCEL": "الغاء"
+  },
+  "COMP_Invoice": {
+    "TOTAL": "المجموع ",
+    "SHIPPING_FEES": "رسوم الشحن",
+    "DISCOUNT_CODE": "كود الخصم",
+    "SHIPPING_ADDRESS": "عنوان التوصيل",
+    "BILL": "الفاتورة",
+    "PAYMENT_METHOD": "طريقة الدفع ",
+    "COMPLETED_SUCCESSFULLY": "تم الطلب بنجاح"
+  },
+  "COMP_OrderReturn": {
+    "RETURNING": "جاري الارجاع",
+    "RETURNING_DONE": "تم الارجاع",
+    "OLD_ORDER": "هذا الطلب قديم جدًا لأسترجاعه !",
+    "DO_YOU_HAVE_PROBLEM": "هل لديك مشاكل في الطلبية؟",
+    "CONTACT_SUPPORT_TEAM": "تواصل مع فريق الدعم",
+    "SHOW_RETURN_DETAILS": "عرض تفاصيل الارجاع",
+    "CONFIRM": "تأكيد",
+    "CANCEL": "الغاء",
+    "RETURN_ADDRESS": " عنوان تسليم الشحنة  "
+  },
+  "COMP_OrderReturnItems": {
+    "RETURNING_DONE": "تم الارجاع",
+    "DOWNLOAD_INVOICE": "تحميل الفاتورة",
+    "SIZE": "الحجم",
+    "QUANTITY": "الكمية",
+    "PRICE": "السعر",
+    "TOTAL": "المجموع"
+  },
+  "COMP_AddressForm": {
+    "ADDRESS_FORM": "إضافة عنوان جديد",
+    "LOCATION_DETAILS": "تفاصيل الموقع",
+    "ADDRESS_NAME": "اسم العنوان",
+    "OPTIONAL": "(اختياري)",
+    "HOME": "البيت",
+    "SELECT_DEFAULT": "استخدام كعنوان رئيسي",
+    "SAVE_ADDRESS": "حفظ العنوان",
+    "CANCEL": "الغاء",
+    "ADDRESS_DETAILS": "تفاصيل العنوان",
+    "NAME": "الاسم",
+    "PHONE": " رقم التليفون",
+    "GOVERNORATE": "المحافظة",
+    "REGION": "المنطقة",
+    "ADDRESS": "العنوان",
+    "BUILDING": "رقم المبنى",
+    "FLOOR": "رقم الدور",
+    "APARTMENT": "رقم الشقة",
+    "POSTAL_CODE": "رمز بريدي",
+    "FIRST_NAME": "الاسم الأول",
+    "REQUIRED_FIRST_NAME": "الاسم الأول مطلوب",
+    "ERR_FIRST_NAME_MIN": "يجب عليك إدخال {length} حرفًا على الأقل.",
+    "ERR_FIRST_NAME_MAX": "يجب أن يكون طول الاسم أقل من {length} حرفًا.",
+    "LAST_NAME": "الاسم الأخير",
+    "REQUIRED_LAST_NAME": "الاسم الأخير مطلوب",
+    "ERR_LAST_NAME_MIN": "يجب عليك إدخال {length} حرفًا على الأقل.",
+    "ERR_LAST_NAME_MAX": "يجب أن يكون طول الاسم أقل من {length} حرفًا.",
+    "EMAIL_ADDRESS": "عنوان البريد الإلكتروني",
+    "REQUIRED_EMAIL": "البريد الإلكتروني مطلوب",
+    "INVALID_EMAIL": "عنوان البريد الإلكتروني غير صالح",
+    "ALREADY_EMAIL_EXISTS": "نحن اسفون. البريد الإلكتروني موجود بالفعل. يرجى تجربة عنوان بريد إلكتروني مختلف للتسجيل، أو تسجيل الدخول إلى حسابك الحالي.",
+    "PHONE_NUMBER": "رقم الهاتف",
+    "REQUIRED_PHONE_NUMBER": "برجاء ادخال رقم الهاتف",
+    "INVALID_PHONE_NUMBER": "رقم الهاتف غير صالح",
+    "CITY": "المدينة",
+    "REQUIRED_CITY": "يرجى اختيار مدينتك.",
+    "LINE1": "العنوان بالتفصيل",
+    "REQUIRED_ADDRESS": "يرجى إدخال اسم الشارع أو أي معالم.",
+    "REQUIRED_BUILDING_NUMBER": "يرجى إدخال رقم المبنى الخاص بك",
+    "DEFAULT_SELECT": "اختار ...",
+    "REQUIRED_FLOOR_NUMBER": "يرجى إدخال رقم الطابق الخاص بك",
+    "FLAT": "الشقة",
+    "REQUIRED_FLAT_NUMBER": "يرجى إدخال رقم الشقة الخاص بك",
+    "SAVE_ADDRESSES": "حفظ العنوان",
+    "DISTRICT": "حي",
+    "REQUIRED_DISTRICT": "يرجى اختيار حيك",
+    "WORK": "العمل",
+    "OTHER": "اخر",
+    "REQUIRED_ADDRESS_TYPE": "الرجاء اختيار نوع العنوان.",
+    "SAVE": " حفظ العنوان ",
+    "Default_ADDRESS": "استخدام كعنوان رئيسي"
+  },
+  "COMP_AccountForm": {
+    "FIRST_NAME": "الاسم الاول",
+    "LAST_NAME": "اسم العائلة",
+    "EMAIL": "البريد الالكتروني",
+    "PHONE": " رقم التليفون",
+    "LANGUAGE": "اللغة المفضلة",
+    "COMPANY": "اسم الشركة",
+    "BIRTH_DATE": "تاريخ الميلاد",
+    "GENDER": "النوع",
+    "SAVE": "حفظ",
+    "RESET_PASSWORD": "تغيير كلمة السر",
+    "MY_ACCOUNT": "حسابي",
+    "GENERAL_INFO": "معلومات عامة",
+    "ERR_FIRST_NAME_MIN": "يجب عليك إدخال {length} حرفًا على الأقل.",
+    "ERR_FIRST_NAME_MAX": "يجب أن يكون طول الاسم أقل من {length} حرفًا.",
+    "REQUIRED_FIRST_NAME": "الاسم الأول مطلوب",
+    "ERR_LAST_NAME_MIN": "يجب عليك إدخال {length} حرفًا على الأقل.",
+    "ERR_LAST_NAME_MAX": "يجب أن يكون طول الاسم أقل من {length} حرفًا.",
+    "REQUIRED_LAST_NAME": "الاسم الأخير مطلوب",
+    "INVALID_EMAIL": "عنوان البريد الإلكتروني غير صالح",
+    "REQUIRED_EMAIL": "البريد الإلكتروني مطلوب",
+    "REQUIRED_PHONE_NUMBER": "برجاء ادخال رقم الهاتف",
+    "INVALID_PHONE_NUMBER": "رقم الهاتف غير صالح",
+    "ALREADY_EMAIL_EXISTS": "نحن اسفون. البريد الإلكتروني موجود بالفعل. يرجى تجربة عنوان بريد إلكتروني مختلف للتسجيل، أو تسجيل الدخول إلى حسابك الحالي."
+  },
+  "COMP_AccountDetails": {
+    "MY_ACCOUNT": "حسابي",
+    "EDIT_BTN": "تعديل"
+  },
+  "COMP_ProfileTabs": {
+    "WISHLIST": "المفضلة",
+    "MY_ORDERS": "الطلبات",
+    "ORDER_RETURN": "الإرجاع",
+    "ADDRESSES": "العناوين",
+    "WALLET": "المحفظة",
+    "MY_ACCOUNT": "حسابي",
+    "LOG_OUT": " تسجيل الخروج",
+    "WELCOME": "مرحبا",
+    "SECTIONS": "الاقسام"
+  },
+  "COMP_Addresses": {
+    "ADDRESSES": "العناوين",
+    "ADD_NEW_ADDRESS": "اضافة عنوان جديد",
+    "SUCCESS_UPDATE_MSG": "تم تحديث العنوان بنجاح.",
+    "SUCCESS_ADD_MSG": "تم إضافة العنوان بنجاح."
+  },
+  "COMP_AddressItem": {
+    "EDIT": "تعديل",
+    "DELETE": "حذف",
+    "DELIVERY_ADDRESS": "عنوان التوصيل {type}",
+    "HOME": "إلى المنزل",
+    "WORK": "للعمل",
+    "Default_ADDRESS": "استخدام كعنوان رئيسي"
+  },
+  "COMP_MyOrders": {
+    "FROM_NEW_TO_OLD": "من الأحدث إلى الأقدم",
+    "FROM_OLD_TO_NEW": "من الأقدم إلى الأحدث ",
+    "VIEW_ORDERS": "عرض الطلبات ",
+    "DETAILS": "تفاصيل"
+  },
+  "COMP_OrderDetails": {
+    "SUB_TOTAL": "المجموع الفرعي",
+    "SHIPPING_FEES": "رسوم الشحن",
+    "TOTAL": "المجموع ",
+    "VIEW_INVOICE": "عرض الفاتورة",
+    "DOWNLOAD_INVOICE": "تحميل الفاتورة",
+    "RATE_PRODUCT": "تقييم المنتج",
+    "RATE_BRANCH": "تقييم الفرع",
+    "RATE_DELIVERY": "تقييم التوصيل",
+    "DELIVERY_ADDRESS": "عنوان التوصيل",
+    "PAYMENT_METHOD": "طريقة الدفع",
+    "INVOICE": "الفاتورة"
+  },
+  "COMP_UnCompletedOrder": {
+    "ARRIVES_WITHIN": "يصل في خلال",
+    "CONTACT_WITH_DELIVERY": "تواصل مع الدليفري"
+  },
+  "COMP_CompletedOrder": {
+    "RETURN_ORDER": "إرجاع المنتجات"
+  },
+  "COMP_Wishlist": {
+    "BEST_SELLER": "الاكثر مبيعا",
+    "ADD_TO_CART_BTN": "اضافة الي عربة التسوق",
+    "UNAVAILABLE": "غير متوفر",
+    "LIST_VIEW_TITLE": "عرض"
+  },
+  "COMP_Refound": {
+    "FAVOURITE_RETURN": "حدد طريقة الاسترداد المفضلة    ",
+    "SELECT_ORIGIN_PAYMENT": " طريقة الدفع الاصلية",
+    "WALLET": "المحفظة",
+    "BANK_TRANSFER": "التحويل البنكي"
+  },
+  "COMP_Pickup": {
+    "RETURN_DETAILS": "تفاصيل الاسترداد",
+    "SHIPPING_ADDRESS": "عنوان تسليم الشحنة",
+    "Name": "الاسم",
+    "ADDRESS": "العنوان",
+    "PHONE_NUMBER": "رقم التليفون",
+    "CHANGE": "تغيير",
+    "SELECT_DAY": "اختار اليوم",
+    "TIME": "التوقيت",
+    "DELIVERY_COMING": " سيأتي عامل التوصيل لاستلام المرتجع خلال الموقع والوقت الذي اخترته.    ",
+    "CONFIRM": "تأكيد",
+    "ADD_NEW_ADDRESS": "اضافة عنوان جديد",
+    "CANCEL": "الغاء"
+  },
+  "COMP_ReturnConfirmation": {
+    "VIEW_RETURNS": " عرض المرتجعات  ",
+    "SIZE": "الحجم",
+    "QUANTITY": "الكمية",
+    "PRICE": "السعر",
+    "RETURN_ADDRESS": " عنوان تسليم الشحنة  ",
+    "RETURNS_PRODUCTS": " المنتجات المرتجعة  ",
+    "RETURN_REASON": "سبب الارجاع",
+    "RETURN_SUMMARY": "ملخص الارجاع",
+    "TOTAL": "المجموع ",
+    "RETURN_WAY": "طريقة الاسترداد"
+  },
+  "COMP_Wallet": {
+    "WALLET_HISTORY": "تاريخ المحفظة",
+    "CHARGE_WALLET": "شحن المحفظة",
+    "BALANCE": "الرصيد"
+  },
+  "COMP_ChargeMethod": {
+    "CHARGE_USING_CARD": "شحن باستخدام البطاقة",
+    "CHARGE_VIA_BANK_TRANSFER": "شحن عن طريق التحويل المصرفي",
+    "READ_AND_ACCEPTED": "لقد قرأت وقبلت",
+    "TERMS_AND_CONDITIONS": "الشروط والأحكام",
+    "ADD_MY_CARD": "اضافة بطاقتي",
+    "CANCEL": "الغاء"
+  },
+  "COMP_WalletForm": {
+    "BANK_NAME": "اسم البنك",
+    "COUNTRY": "البلد",
+    "BRANCH": "الفرع",
+    "ZAMALEK": "الزمالك",
+    "BANK_IDENTIFICATION_Number": "الرقم التعريفي ",
+    "TRANSFER_NUMBER": "رقم التحويل",
+    "ACCOUNT_NUMBER": "رقم الحساب",
+    "IBAN_NUMBER": "رقم الايبان",
+    "SWIFT_CODE": "سويفت كود",
+    "REQUIRED_BANK_NAME": "برجاء ادخال اسم البنك",
+    "REQUIRED_COUNTRY": "برجاء ادخال البلد",
+    "REQUIRED_BRANCH": "برجاء ادخال اسم الفرع",
+    "REQUIRED_IDENTIFICATION_NUMBER": "برجاء ادخال الرقم التعريفي ",
+    "REQUIRED_TRANSFER_NUMBER": "برجاء ادخال رقم التحويل",
+    "REQUIRED_ACCOUNT_NUMBER": "برجاء ادخال رقم الحساب",
+    "REQUIRED_IBAN_NUMBER": "برجاء ادخال رقم الايبان",
+    "REQUIRED_SWIFT_CODE": "برجاء ادخال سويفت كود",
+    "TRANSFER_DETAILS": "تفاصيل التحويل",
+    "TRANSFER_DURATION": "تستغرق عملية التحويل بشكل عام من يومين إلى ثلاثة أيام عمل.",
+    "READ_ACCEPT": "لقد قرأت وقبلت",
+    "TERMS_CONDTIONS": "الشروط والاحكام",
+    "CONFIRM": "تأكيد",
+    "CANCEL": "الغاء",
+    "REQUIRED_TRANSFER_DETAILS": " برجاء ادخال تفاصيل التحويل    ",
+    "TRANSFERE_INFORMATION": "معلومات التحويل",
+    "BANK_DETAILS": "تفاصيل البنك"
+  },
+  "COMP_ReturnProcess": {
+    "CONFIRM": "تأكيد",
+    "CANCEL": "الغاء"
+  },
+  "COMP_Footer": {
+    "ADDRESS": "3ص5 المنطقة الصناعية القطامية - المعادي - القاهرة",
+    "TIME": "ساعات العمل من 08:00 AM صباحا الى 11:30 PM منتصف الليل 7 ايام في الاسبوع",
+    "ABOUT_ALKHBAZ": "عن الخباز",
+    "TERMS_CONDITION": "البنود والشروط",
+    "DELIVERY_POLICY": "سياسة التوصيل",
+    "RETURN_POLICY": "سياسة الارجاع",
+    "SUPPORT": "الدعم",
+    "QUESTIONS_ANSWERS": " اسئلة واجوبة",
+    "CONTACT_US": "تواصل معنا",
+    "PAYMENT_METHOD": "طرق الدفع ",
+    "SHARE_WITH_US": "شارك معنا",
+    "COPY_RIGHT": " الخباز. كل الحقوق محفوظة"
+  },
+  "Comp_Change_Password": {
+    "CHANGE_PASSWORD": "تغيير كلمة المرور",
+    "CURRENT_PASSWORD": "كلمة المرور الحالية",
+    "REQUIRED_CURRENT_PASSWORD": "برجاء ادخال كلمة المرور الحالية",
+    "CURRENT_PASSWORD_INVALID": "عذرًا، ولكن كلمة المرور الحالية غير صالحة",
+    "NEW_PASSWORD": "كلمة المرور الجديدة",
+    "REQUIRED_NEW_PASSWORD": "برجاء ادخال كلمة المرور الجديدة",
+    "NEW_PASSWORD_REGX_MATCH": "يجب أن تحتوي كلمة المرور على حرف كبير وحرف صغير وتكون على الأقل 8 أحرف وحرف خاص واحد",
+    "SAME_PASSWORD_ERR": "كلمة المرور الجديدة هي نفس كلمة المرور القديمة. يرجى اختيار كلمة مرور أخرى.",
+    "REPEAT_NEW_PASSWORD": "أعد ادخال كلمة المرور الجديدة ",
+    "REQUIRED_REPEAT_NEW_PASSWORD": "برجاء اعادة ادخال كلمة المرور الجديدة",
+    "REPEAT_NEW_PASSWORD_MATCH": "كلمة المرور غير متطابقة",
+    "SAVE": "حفظ",
+    "CANCEL": "الغاء",
+    "GENERIC_ERR_MSG": "عذرًا! حدث خطأ ما. الرجاء المحاولة مرة أخرى لاحقًا.",
+    "SUCCESS_MSG": "تم تحديث كلمة المرور بنجاح.",
+    "SUCCESS_MSG_COUNTER": "جاري تسجيل الخروج في خلال {countdown} ثواني..."
+  },
+  "COMP_EmptyWishlist": {
+    "WISHLIST-IS-EMPTY": "لا يوجد منتجات فى المفضلة",
+    "EMPTY_TILL_NOW": "ليس لديك أي شيء في قائمتك حتى الآن.",
+    "SHOP_NOW": "تسوق الآن"
+  },
+  "COMP_Profile_Address": {
+    "ADD_NEW_ADDRESS": "اضافة عنوان جديد",
+    "GENERIC_ERR_MSG": "عذرًا! حدث خطأ ما. الرجاء المحاولة مرة أخرى لاحقًا.",
+    "SUCCESS_UPDATE_MSG": "تم تحديث العنوان بنجاح.",
+    "SUCCESS_ADD_MSG": "تم إضافة العنوان بنجاح.",
+    "EMPTY_MSG": "لا توجد عناوين الآن."
+  },
+  "COMP_Remove_Address_Modal": {
+    "REMOVE_ADDRESS": " حذف العنوان",
+    "DO_REMOVE_ADDRESS": "هل أنت متأكد أنك تريد حذف العنوان؟",
+    "CONFIRM_REMOVE": "حذف",
+    "CANCEL": "الغاء",
+    "GENERIC_ERR_MSG": "عذرًا! حدث خطأ ما. الرجاء المحاولة مرة أخرى لاحقًا."
+  },
+  "COMP_FavoriteForm": {
+    "ADD_TO_FAVORITE_MESSAGE": "تم اضافة العنصر الي المفضلة بنجاح",
+    "ADD_TO_FAVORITE_ERROR": "حدث خطأ أثناء إضافة المنتج",
+    "REMOVE_FROM_FAVORITE_MESSAGE": "تم حذف العنصر من المفضلة بنجاح",
+    "REMOVE_FROM_FAVORITE_ERROR": "حدث خطأ أثناء حذف المنتج"
+  },
+  "COMP_SidebarFilter": {
+    "SECTIONS": "الاقسام",
+    "PRICE": "السعر",
+    "DELETE_ALL": "حذف الكل"
+  },
+  "COMP_Price_Range": {
+    "FROM": "من",
+    "TO": "الي"
+  },
+  "COMP_MobileFilter": {
+    "DELETE_ALL": "حذف الكل",
+    "PRICE": "السعر",
+    "BAKED": "المخبوزات"
+  },
+  "COMP_MobileNav": {
+    "ALL": "الكل"
+  },
+  "COMP_FulfillmentMenu": {
+    "CHOOSE_ARIA": "حدد منطقتك",
+    "DEFAULT_SELECT": "اختار ..."
+  },
+  "COMP_Delivery_time": {
+    "DELIVERY_TIME": "توصيل في 30 دقيقة"
+  },
+  "COMP_MiniCart": {
+    "SHOPPING_CART": "عربة التسوق",
+    "TOTAL": "المجموع ",
+    "CART_LINK": "عربة التسوق",
+    "CHECKOUT_LINK": "اتمام الشراء"
+  }
+}

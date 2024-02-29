@@ -1,0 +1,124 @@
+.card {
+  border: none;
+  display: flex;
+  width: 100%;
+  position: relative;
+
+  .favorite-btn {
+    width: 29px;
+    height: 29px;
+    padding: 3px;
+  }
+
+  .card-upper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 1rem;
+  }
+
+  &.vcard {
+    flex-direction: column;
+    align-items: start;
+
+    .card-img {
+      width: 100%;
+    }
+  }
+
+  &.hcard {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    margin-top: 1rem;
+
+    .card-img {
+      width: 50%;
+      background-size: contain;
+      border-radius: 6px;
+    }
+  }
+
+  .compare {
+    &:hover {
+      background-color: initial;
+
+    }
+  }
+
+  .card-body {
+    border: none;
+    padding: 24px 0;
+
+    th {
+      padding: 0;
+      font-weight: normal;
+
+      p {
+        padding: 0;
+      }
+    }
+  }
+}
+
+.standard {
+  padding-bottom: 67%;
+}
+
+.square {
+  padding-bottom: 100%;
+}
+
+.square,
+.standard {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.grid-card {
+  position: relative;
+  overflow: hidden;
+  transition: 0.5s all;
+  background-size: 100% !important;
+
+  &:hover {
+    background-size: 120%;
+  }
+
+  .row {
+    height: 50%;
+
+    .col {
+      padding: 32px;
+
+      p {
+        margin: 0;
+      }
+    }
+  }
+}
+
+.product-card {
+  .product-fav {
+    height: 30px;
+  }
+
+  .card-img-overlay {
+    padding: 0;
+  }
+
+  .card-img {
+    min-height: 160px;
+    max-height: 240px;
+  }
+}
+
+@include for-large-phones {
+  .card {
+    &.hcard {
+      flex-direction: column;
+    }
+  }
+}

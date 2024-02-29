@@ -1,0 +1,58 @@
+:dir(ltr) {
+  .carousel-content {
+    display: flex;
+    justify-content: flex-end;
+  }
+}
+.features {
+  .delivery-content {
+    bottom: 3rem;
+    right: 2rem;
+  }
+  .fresh-content {
+    bottom: 3rem;
+    right: 2rem;
+  }
+}
+[data-layout-dir='rtl'] {
+  .delivery-content {
+    right: 2rem;
+  }
+  .fresh-content {
+    right: 3rem;
+  }
+}
+.home-carousel {
+  .carousel-content {
+    margin-inline-start: 1rem;
+    @include for-tablet {
+      .title {
+        padding-bottom: 20px;
+        font-size: 16px;
+      }
+      .order-btn {
+        padding: 10px 12px;
+        font-size: 12px;
+      }
+    }
+  }
+}
+@include for-desktop {
+  .features {
+    .delivery-content,
+    .fresh-content {
+      font-size: 22px;
+    }
+  }
+}
+
+@include for-phone {
+  .features {
+    .delivery-content,
+    .fresh-content {
+      font-size: 16px;
+      bottom: 2rem;
+      right: 1rem;
+    }
+  }
+}

@@ -1,0 +1,14 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.check-box {
+  .box-radio {
+    &:checked+.box-label {
+      background-color: $primary;
+      color: $white !important;
+    }
+  }
+}
